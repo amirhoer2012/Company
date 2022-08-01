@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DAL.Models.Users
 {
-    class Admin
+   public class Admin
     {
     }
 }
