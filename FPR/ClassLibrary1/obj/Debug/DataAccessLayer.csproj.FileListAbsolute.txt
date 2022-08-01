@@ -1,0 +1,5 @@
+c:\users\ah.erambue\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\DAL.dll
+c:\users\ah.erambue\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\bin\Debug\DAL.pdb
+c:\users\ah.erambue\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+c:\users\ah.erambue\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.dll
+c:\users\ah.erambue\documents\visual studio 2015\Projects\ClassLibrary1\ClassLibrary1\obj\Debug\DAL.pdb
